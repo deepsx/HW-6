@@ -120,7 +120,7 @@ div.phones {
 }
 
 div.phones p {
-	font-family: Arial;
+	font-family: Arial, Verdana, Sans-serif;
 	font-size: 18px;
 	color: #5e696d;
 	letter-spacing: 0.5px;
@@ -167,7 +167,7 @@ ul.top_menu li {
 
 ul.top_menu li:nth-child(7),
  ul.top_menu li:nth-child(8){
- 	font-family: Arial;
+ 	font-family: Arial, Verdana, Sans-serif;
 	font-size: 11px;
 	color: #929b9f;
 }
@@ -179,14 +179,14 @@ ul.top_menu li a img {
 }
 
 ul.top_menu li span {
-	font-family: Arial;
+	font-family: Arial, Verdana, Sans-serif;
 	font-size: 12px;
 	color: #0d5a8f;
 	letter-spacing: 0.5px;
 }
 
 ul.top_menu li p {
-	font-family: Arial;
+	font-family: Arial, Verdana, Sans-serif;
 	font-size: 11px;
 	color: #929b9f;
 	padding-top: 10px;
@@ -242,13 +242,13 @@ form.left_top {
 
 form.left_top header div:nth-child(odd) {
 	
-	font-family: "Arial Black";
+	font-family: "Arial Black", Verdana, Sans-serif;
 	font-size: 10px;
 	color: #154467;
 }  
  
 form.left_top header div:nth-child(even) {
-	font-family: "Arial Black";
+	font-family: "Arial Black", Verdana, Sans-serif;
 	font-size: 12px;
 	color: #154467;
 }
@@ -277,7 +277,7 @@ form.left_top header div:nth-child(3) {
 /*styles for text in forms*/
 .first_col li p,
 .third_col li p {
-	font-family: Arial;
+	font-family: Arial, Verdana, Sans-serif;
 	font-size: 10px;
 	color: #000;
 }
@@ -318,7 +318,7 @@ ul.first_col li:nth-child(3) {
 	height: 17px;
 	margin-bottom: 5px;
 	border-bottom: none;
-	font-family: Arial;
+	font-family: Arial, Verdana, Sans-serif;
 	font-size: 11px;
 } 
 
@@ -327,7 +327,7 @@ ul.first_col li:nth-child(3) {
 }
 
 option {
-	font-family: Arial;
+	font-family: Arial, Verdana, Sans-serif;
 	font-size: 11px;
 }
 
@@ -371,7 +371,7 @@ ul.fourth_col {
 input[type="submit"] {
 	border: none;
 	background: none;
-	font-family: Arial;
+	font-family: Arial, Verdana, Sans-serif;
 	font-size: 14px;
 	color: #154467;
 	font-style: italic;
@@ -400,7 +400,7 @@ form.center_top header {
 }
 
 form.center_top header p {
-	font-family: "Arial Black";
+	font-family: "Arial Black", Verdana, Sans-serif;
 	font-size: 10px;
 	color: #114165;
 	margin-left: 9px;
@@ -432,7 +432,7 @@ form.center_top ul li p {
 }
 
 form.center_top ul li:nth-child(2) p {
-	font-family: Arial;
+	font-family: Arial, Verdana, Sans-serif;
 	font-size: 11px;
 	color: #000;	
 	margin-left: 32px;
@@ -458,13 +458,13 @@ form.center_top ul li:nth-child(3) p {
 } 
 
 option {
-	font-family: Arial;
+	font-family: Arial, Verdana, Sans-serif;
 	font-size: 11px;
 	color: #000;	
 } 
 
 option {
-	font-family: Arial;
+	font-family: Arial, Verdana, Sans-serif;
 	font-size: 11px;
 	color: #000;	
 }
@@ -543,7 +543,7 @@ form.right_top header {
 }
 
 form.right_top header p {
-	font-family: "Arial Black";
+	font-family: "Arial Black", Verdana, Sans-serif;
 	font-size: 12px;
 	color: #114165;
 	letter-spacing: 0.7px;
@@ -557,7 +557,7 @@ form.right_top ul.first_col {
 }
 
 form.right_top .first_col li p {
-	font-family: Arial;
+	font-family: Arial, Verdana, Sans-serif;
 	font-size: 10px;
 	letter-spacing: 0.7px;
 	color: #000;
@@ -713,7 +713,7 @@ main .left section header div {
 }
 
 main .left section header p {
-	font-family: Arial;
+	font-family: Arial, Verdana, Sans-serif;
 	font-size: 14px;
 	color: #0c3256;
 	margin-left: 4px;	
@@ -722,7 +722,7 @@ main .left section header p {
 main .left section ul {	
 	margin-left: 37px;	
 	list-style: circle;
-	font-family: Arial;
+	font-family: Arial, Verdana, Sans-serif;
 	font-size: 12px;
 	color: #869095;
 	line-height: 25px;
@@ -786,7 +786,7 @@ figure {
 }
 
 figcaption {
-	font-family: Arial;
+	font-family: Arial, Verdana, Sans-serif;
 	font-size: 16px;
 	color: #114165;
 	font-style: italic;
@@ -933,7 +933,7 @@ input[type="submit"].choice {
 	border: none;
 	border-radius: 15px;	
 	background: linear-gradient(to top, #0c3357, #1f6787);
-    font-family: Arial;
+    font-family: Arial, Verdana, Sans-serif;
     font-size: 11px;
     color: #e5e9ea;
     font-style: normal;
@@ -951,6 +951,8 @@ input[type="submit"].choice {
   width: 676px;
   height: 27px;
 }
+
+
 
 /*FOOTER*/
 
@@ -972,7 +974,7 @@ footer {
 .footer_menu_item a {
   text-decoration: none;
   font-size: 13px;
-  font-family: Arial;
+  font-family: Arial, Verdana, Sans-serif;
   color: #bec6c9;
 }
 
@@ -988,7 +990,7 @@ footer {
 }
 
 .copyright {
-  font-family: Arial;
+  font-family: Arial, Verdana, Sans-serif;
   font-size: 10px;
   color: #7f4740;
   display: block;
